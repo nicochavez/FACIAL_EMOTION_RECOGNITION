@@ -1,10 +1,10 @@
-# FaceAnalyzer
+# FaceAnalyzer 🧠💻
 
 ![FaceAnalyzer Demo](demo.gif)
 
 FaceAnalyzer is an innovative Python project that harnesses the power of computer vision to analyze and detect faces displayed on your screen in real-time. Whether you're curious about the emotions expressed or simply want to track the number of faces, FaceAnalyzer has got you covered!
 
-## Features
+## Features🚀
 
 - **Real-Time Face Detection:** Quickly identify and highlight faces in the live video feed from your screen.
 
@@ -14,13 +14,15 @@ FaceAnalyzer is an innovative Python project that harnesses the power of compute
 
 - **Customizable:** Adjust the settings to focus on specific emotions or features that matter most to you.
 
-## How to Use
+## How to Use📄
 
 1. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
 2. **Capture the emotions from your screen**
+   ```bash
    run get_emotion_from_screen.py
 3.**Show the results in data.csv**
+   ```bash
    run show_graph.py
  
